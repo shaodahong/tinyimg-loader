@@ -1,0 +1,11 @@
+{
+  "name": "tiny-png-webpack-plugin",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:shaodahong/tiny-png-webpack-plugin.git",
+  "author": "shaodahong <337097324@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
