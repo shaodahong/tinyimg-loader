@@ -1,5 +1,5 @@
 {
-  "name": "tiny-png-webpack-plugin",
+  "name": "tiny-png-loader",
   "version": "0.0.1",
   "main": "index.js",
   "repository": "git@github.com:shaodahong/tiny-png-webpack-plugin.git",
