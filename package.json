@@ -5,7 +5,18 @@
   "repository": "git@github.com:shaodahong/tiny-png-webpack-plugin.git",
   "author": "shaodahong <337097324@qq.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "webpack --config build/test.js"
+  },
   "dependencies": {
     "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.1",
+    "babel-loader": "^8.0.2",
+    "file-loader": "^2.0.0",
+    "url-loader": "^1.1.1",
+    "webpack": "^4.19.0",
+    "webpack-cli": "^3.1.0"
   }
 }
