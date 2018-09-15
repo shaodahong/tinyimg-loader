@@ -6,7 +6,8 @@
   "author": "shaodahong <337097324@qq.com>",
   "license": "MIT",
   "scripts": {
-    "test": "webpack --config build/test.js"
+    "test": "webpack --config build/test.js",
+    "release": "sh build/release.sh"
   },
   "dependencies": {
     "axios": "^0.18.0"
