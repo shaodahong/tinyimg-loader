@@ -27,7 +27,7 @@ module.exports = {
               publicPath: '/'
             }
           },
-          './lib/index.js'
+          'tinyimg-loader'
         ]
       }
     ]
