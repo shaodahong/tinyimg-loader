@@ -7,6 +7,18 @@ Use [tinypng.com](https://tinypng.com) upload/download achieve compress images
 - [X] Mini size
 - [X] Cache
 
+### Install
+
+```bash
+$ yarn add tinyimg-loader -D
+```
+
+OR
+
+```bash
+$ npm i tinyimg-loader -D
+```
+
 ### Usage
 
 ```js
