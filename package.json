@@ -10,7 +10,8 @@
     "release": "sh build/release.sh"
   },
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.18.0",
+    "fs-extra": "^7.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.1",
