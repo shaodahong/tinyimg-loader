@@ -1,6 +1,6 @@
 {
   "name": "tinyimg-loader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "lib/index.js",
   "repository": "git@github.com:shaodahong/tiny-png-webpack-plugin.git",
   "author": "shaodahong <337097324@qq.com>",
